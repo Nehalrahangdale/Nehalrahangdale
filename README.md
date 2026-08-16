@@ -55,17 +55,15 @@
 
 ### 📌 Featured Projects
 
-- **[Airbnb Clone](https://github.com/Nehalrahangdale)** — A full-stack web app inspired by Airbnb, built with Node.js, Express, and MongoDB.
-- **Smart Parking Slot Management System** — A system to manage and track parking slots efficiently.
-
-> 🔗 Update the links above once you rename/organize the repos.
+- **[Airbnb Clone](https://github.com/Nehalrahangdale/Major_Project)** — A full-stack web app inspired by Airbnb, built with Node.js, Express, and MongoDB.
+- **[Simon Says Game](https://github.com/Nehalrahangdale/simon-says-game)** — A browser-based memory game built with JavaScript.
 
 ---
 
 ### 🧩 DSA / Problem Solving
 
 - 🧠 Practicing **Data Structures & Algorithms** consistently to build strong problem-solving skills
-- 📁 Solutions repo: **[DSA-Practice](https://github.com/Nehalrahangdale)** — my collection of solved problems (arrays, strings, recursion, trees, graphs, DP, and more)
+- 📁 Solutions repo: **[DSA-Java](https://github.com/Nehalrahangdale/DSA-Java)** — my Java solutions for Data Structures and Algorithms problems from LeetCode
 - 🔥 **64 problems solved** on LeetCode, with a **28-day max streak** and the **50 Days Badge 2026** 🏅
 - 🎯 Focused on cracking coding rounds for fresher SDE/IT interviews
 
@@ -81,7 +79,18 @@
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nehalrahangdale&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehalrahangdale&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nehalrahangdale&hide_border=true&theme=default" alt="GitHub Streak" />
+</p>
+
+> ⚠️ These are free public services and occasionally show "Something went wrong" or "Maximum retries exceeded" when overloaded. This is NOT an error in your file — it's the service itself being temporarily down. Just wait a few minutes and refresh. If it keeps failing for more than a day, see the no-dependency fallback version below.
 
 <details>
 <summary>📌 Fallback (guaranteed to load, no live data)</summary>
