@@ -78,19 +78,6 @@
 </p>
 
 ---
-
-
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-blue?style=for-the-badge" />
-</p>
-
-</details>
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
