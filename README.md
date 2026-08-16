@@ -84,15 +84,28 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nehalrahangdale&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nehalrahangdale&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nehalrahangdale&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehalrahangdale&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nehalrahangdale&hide_border=true&theme=default" alt="GitHub Streak" />
 </p>
 
-> ⚠️ If these images show a broken icon or "fetching error", it's usually the free hosting service being temporarily rate-limited (very common — millions of profiles use it) — not a problem with your setup. It typically loads fine once the README is live on your actual GitHub profile page and GitHub's image cache kicks in. Just refresh the page after a minute, or try again later.
+> ⚠️ These are free public services and occasionally show "Something went wrong" or "Maximum retries exceeded" when overloaded. This is NOT an error in your file — it's the service itself being temporarily down. Just wait a few minutes and refresh. If it keeps failing for more than a day, see the no-dependency fallback version below.
+
+<details>
+<summary>📌 Fallback (guaranteed to load, no live data)</summary>
+
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-blue?style=for-the-badge" />
+</p>
+
+</details>
 
 ---
 
