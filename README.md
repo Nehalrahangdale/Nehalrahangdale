@@ -64,7 +64,7 @@
 
 - 🧠 Practicing **Data Structures & Algorithms** consistently to build strong problem-solving skills
 - 📁 Solutions repo: **[DSA-Java](https://github.com/Nehalrahangdale/DSA-Java)** — my Java solutions for Data Structures and Algorithms problems from LeetCode
-- 🔥 **92 problems solved** on LeetCode , and the **50 Days Badge 2026** 🏅
+- 🔥 **93 problems solved** on LeetCode , and the **50 Days Badge 2026** 🏅
 - 🎯 Focused on cracking coding rounds for fresher SDE/IT interviews
 
 <p align="left">
