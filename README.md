@@ -55,6 +55,7 @@
 
 ### 📌 Featured Projects
 
+- **[Next Park AI](https://github.com/Nehalrahangdale/final_megaproject)** — A smart parking slot management web app built as a team project with the MERN stack and deployed on Render. 🔗 **[Live Demo](https://next-park.onrender.com)**
 - **[Airbnb Clone](https://github.com/Nehalrahangdale/Major_Project)** — A full-stack web app inspired by Airbnb, built with Node.js, Express, and MongoDB.
 - **[Simon Says Game](https://github.com/Nehalrahangdale/simon-says-game)** — A browser-based memory game built with JavaScript.
 
